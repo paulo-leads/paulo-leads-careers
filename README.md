@@ -36,6 +36,7 @@ Visão sistêmica para unificar geração de leads, pré-atendimento e CRMs em u
 Por que se juntar à Paulo Leads?
 Nós estamos hackeando a forma como propriedades e contratos de alto valor são transacionados no Brasil. Aqui, você não vai construir ferramentas periféricas; seu código e suas redes neurais serão o produto principal (Core Business) que define quem vende e quem fica para trás no mercado. Você terá autonomia total para definir o stack tecnológico de IA da empresa e atuar como um verdadeiro co-fundador técnico da nossa expansão.
 ---
+
 <div align="right">
   <sup><em>Documentação da Arquitetura: <a href="https://pauloleads.com.br/sitemap.xml">Sitemap Paulo Leads</a></em></sup>
 </div>
